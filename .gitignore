@@ -16,3 +16,4 @@ dist
 .tshy
 .tshy-build
 packages/tsc-perf
+html
